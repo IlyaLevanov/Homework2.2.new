@@ -123,13 +123,10 @@
                         </variation>
                     </view>
                     <connections>
-                        <outlet property="blueLabel" destination="a5Z-oF-eOA" id="JYv-pa-mDC"/>
                         <outlet property="blueSlider" destination="5z3-NW-fSi" id="x0Y-Jf-3Vo"/>
                         <outlet property="blueValueLabel" destination="Eai-0n-bGI" id="1om-c6-Lk0"/>
-                        <outlet property="greenLabel" destination="aDW-3F-Dbu" id="uDc-4G-Fw3"/>
                         <outlet property="greenSlider" destination="Csj-hb-qlD" id="YDg-VN-TMl"/>
                         <outlet property="greenValueLabel" destination="4AV-nF-e5T" id="xeh-YX-KqM"/>
-                        <outlet property="redLabel" destination="j98-8y-Ce4" id="5Az-Pq-QKs"/>
                         <outlet property="redSlider" destination="S6v-58-OzV" id="Cgx-Ge-26d"/>
                         <outlet property="redValueLabel" destination="s6W-b6-PL7" id="8SU-vJ-Nu2"/>
                         <outlet property="viewRGB" destination="1GC-yN-XeO" id="DEV-VL-ylK"/>
